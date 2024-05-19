@@ -1,14 +1,14 @@
 {
   "name": "@patrtorg/consectetur-repudiandae-consequuntur",
-  "version": "2.0.11",
+  "version": "2.0.12",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "PatrDen",
   "license": "MIT",
   "dependencies": {
-    "@dramaorg/esse-praesentium-eligendi": "^2.2.13",
-    "@juigorg/sit-nam-neque": "^1.0.15",
+    "@dramaorg/esse-praesentium-eligendi": "^2.2.14",
+    "@juigorg/sit-nam-neque": "^1.0.16",
     "@kollorg/dicta-itaque-nemo": "^1.1.15",
     "@patrtorg/autem-et-hic": "^1.0.0",
     "@patrtorg/consectetur-culpa-non": "^1.0.0",
